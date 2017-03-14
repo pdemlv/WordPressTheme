@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  font-family: "PT Sans", "Times New Roman", "Roboto","Ubuntu";
+  font-size: 13px; }
+
+.icon_cont {
+  display: inline-block !important;
+  border-radius: 50%;
+  background-color: #04a2e8; }
